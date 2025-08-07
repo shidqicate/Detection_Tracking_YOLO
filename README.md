@@ -15,7 +15,6 @@ This project implements an autonomous drone control system using the **DJI Tello
 - ⚡ Lightweight and runs efficiently on Jetson Nano
 
 ## 🛠 ️Tech Stack
----
 Before running this project, make sure your system has:
 
 - [YOLO Model](https://docs.ultralytics.com/)
@@ -27,14 +26,12 @@ Before running this project, make sure your system has:
 
 
 ## 📸 How it works
----
 - A YOLO model detects an object (e.g., person) in real-time.
 - The script calculates the object's position relative to the center of the frame.
 - The DJI Tello adjusts its yaw, forward/backward, and up/down movement to keep the object centered.
 - A video feed displays bounding boxes and debug info.
 
 ## Installation
----
 How to Installation:
 
 - Download & Install [YOLO Requirements](https://docs.ultralytics.com/)
