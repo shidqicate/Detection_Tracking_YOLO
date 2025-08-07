@@ -8,7 +8,6 @@
 This project implements an autonomous drone control system using the **DJI Tello**, equipped with real-time object tracking and following capabilities. The system utilizes the **YOLO (You Only Look Once)** model optimized with *TensorRT* for fast and efficient inference. The drone can detect trained objects, track their movements, and automatically adjust its position to stay within the frame. This project is a perfect example of a practical application of computer vision and robotics.
 
 ## 🎯 Features
----
 - 🎯 Real-time object detection using YOLOv5s optimized with TensorRT
 - 🧠 Custom object tracking logic for smooth movement and target lock
 - 🤖 Autonomous drone control via djitellopy (Python SDK for Tello)
