@@ -23,6 +23,7 @@ Before running this project, make sure your system has:
 - OpenCV for Python
 - [DJITelloPy](https://github.com/damiafuentes/DJITelloPy)
 - PyTorch
+- PyCharm
 
 
 ## 📸 How it works
@@ -34,6 +35,7 @@ Before running this project, make sure your system has:
 ## Installation
 How to Installation:
 
+- Download & Install [PyCharm](https://www.jetbrains.com/pycharm/download/?section=windows)
 - Download & Install [YOLO Requirements](https://docs.ultralytics.com/)
 - Download a pretrained model like  [Yolov8](https://docs.ultralytics.com/models/yolov8/)
 - See [DjiTelloPy Documentation](https://djitellopy.readthedocs.io/en/latest/tello/)
